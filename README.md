@@ -14,5 +14,5 @@
 
 这个问题主要难点在于:
 1. Minimax算法的编码[Notes](https://cs50.harvard.edu/ai/2020/notes/0/)，笔记中有伪代码。
-2. $\alpha-\beta$ 剪枝算法编码[Blog](https://www.cnblogs.com/IvanSSSS/p/4985072.html)
+2. $\alpha-\beta$ 剪枝算法编码[Blog](https://www.cnblogs.com/IvanSSSS/p/4985072.html)(待完成)
 
